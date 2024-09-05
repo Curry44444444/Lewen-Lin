@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: /img/819e8xn-s3L.jpg
-title: "Micromouse"
+title: "Two-player fishing game"
 date: 2024
 published: true
 labels:
