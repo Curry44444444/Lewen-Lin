@@ -16,11 +16,9 @@
     ]
   },
   "interests": [
-    { "name": "Interactive media" },
-    { "name": "Neuromorphic Computing" },
-    { "name": "Quantum Computing" },
-    { "name": "Robotics" },
-    { "name": "3D Graphics" }
+    { "name": "Machine learning" },
+    { "name": "Deep learning" },
+    { "name": "Data analysis" },
   ],
   "skills": [
     {
