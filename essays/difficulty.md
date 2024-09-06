@@ -9,7 +9,7 @@ labels:
   - Software engineering
 ---
 
-<img width="200px" class="rounded float-start pe-4" src="../img/difficulty/degree_difficulty.jpg">
+<img width="200px" class="rounded float-start pe-4" src="img/app_arch-software_dev_lifecycle-f_mobile.png">
 
 #Programming is very cool for me
 I learned about computer science and programming in about 2016 when I was in middle school, but what I know was only I can develop a game using only code, I didn't have an
