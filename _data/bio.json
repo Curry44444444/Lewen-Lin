@@ -10,9 +10,8 @@
     "location": { "address": "", "postalCode": "96814", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
       { "network": "github", "username": "LewenLin", "url": "http://github.com/changeme" },
-      { "network": "linkedin", "username": "LewenLin", "url": "http://linkedin.com/in/changeme" },
-      { "network": "twitter", "username": "mollymal", "url": "http://twitter.com/changeme" },
-      { "network": "instagram", "username": "molly", "url": "http://instagram.com/changeme" }
+      { "network": "linkedin", "username": "LewenLin", "url": "https://www.linkedin.com/in/lewen-lin-997b8a325" },
+      { "network": "email", "username": "lewen44@hawaii.edu", "url": "lewen44@hawaii.edu" }
     ]
   },
   "interests": [
