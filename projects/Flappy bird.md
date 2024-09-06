@@ -7,6 +7,8 @@ date: 2024
 published: true
 labels:
   - Python
+  - Pygame
+  - Graphics rendering
 summary: "A small game that I developed during summer holiday."
 ---
 
