@@ -16,8 +16,9 @@
   },
   "interests": [
     { "name": "Machine learning" },
-    { "name": "Deep learning" },
+    { "name": "Geometric" },
     { "name": "Data analysis" },
+    { "name": "Calculus" },
   ],
   "skills": [
     {
