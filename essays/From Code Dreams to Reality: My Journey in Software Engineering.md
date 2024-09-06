@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "My interests in software engineering"
+title: "From Code Dreams to Reality: My Journey in Software Engineering"
 # All dates must be YYYY-MM-DD format!
 date: 2024-09-05
 published: true
