@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: ../img/f3.png
+image: /img/f3.png
 title: "Flappy bird"
 date: 2024
 published: true
