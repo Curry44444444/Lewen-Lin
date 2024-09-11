@@ -9,7 +9,7 @@
     "summary": "I am a student majoring in computer science-data science at University of Hawaii at Manoa. I expect to graduate in Spring 2026",
     "location": { "address": "", "postalCode": "96814", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
-      { "network": "github", "username": "LewenLin", "url": "http://github.com/changeme" },
+      { "network": "github", "username": "LewenLin", "url": "https://github.com/LewenLin" },
       { "network": "linkedin", "username": "LewenLin", "url": "https://www.linkedin.com/in/lewen-lin-997b8a325" },
       { "network": "email", "username": "lewen44@hawaii.edu", "url": "lewen44@hawaii.edu" }
     ]
