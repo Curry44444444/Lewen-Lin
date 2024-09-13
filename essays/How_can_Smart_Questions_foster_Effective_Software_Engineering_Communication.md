@@ -29,7 +29,7 @@ https://stackoverflow.com/questions/78800907/why-am-i-getting-compile-error-in-j
 
 An example of Not So Smart question
 https://stackoverflow.com/questions/78797362/javascript-any-way-to-create-a-class-by-constructing-class-name-using-strings-v
-<img width="1000px" class="rounded float-start pe-4" src="../img/goodExample.png">
+<img width="1000px" class="rounded float-start pe-4" src="../img/badExample.png">
 First of all, we can see that the question lacks effective netiquette because it fails to demonstrate respect for the community's time and resources, which is not good for him to get the answer, The question about dynamically creating class instances in JavaScript without using eval is less effective due to its lack of clarity and focus. The user said he've tried many times but did not explain why they were all failed or what specific issues were encountered, this makes other users difficult to analyze the problem, resulting in a 0 reply on his question. 
 
 Summary
