@@ -15,6 +15,7 @@ labels:
 
 <h1>Coding standard is sometimes frustration!</h1>
 <img width="600px" class="rounded float-start pe-4" src="../img/issue1.png">
+
 <img width="800px" class="rounded float-start pe-4" src="../img/issue2.png">
 Coding standard can sometimes make my feel annoying, reflecting on my first week use of ESLint in VSCode, a red wavy line would occur even though it's just a minor issue, for example, it occurs when I forgot to create a new line at the end of the code or forgot to add a whitespace after the "if" statement, then I have to go back to check what happened and recorrect the mistake, to be honest, in many case I don't think it's necessary to correct them and the small issues would not affect my code, I will feel a distraction from the core logic I'm trying to implement, I cannot get a lot real value from correcting them.But however, I forgot what is the definition real value: consistency, collaboration, and long-term maintainability.
 
