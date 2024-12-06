@@ -13,6 +13,8 @@ labels:
 
 
 <img width="1000px" class="rounded float-start pe-4" src="../img/behavioral-design-patterns-new.png">
+
+
 <h2>The Power of Blueprints</h2>
 Imagine you are tasked with building a skyscraper in a bustling city. You wouldn't redesign every structural element from scratch, would you? Instead, you would refer to blueprints validated by decades of engineering experience to ensure that the building is safe, efficient, and meets the needs of its occupants. Software development is similar in that design patterns are our blueprints - a set of proven solutions to common problems in software design.
 
