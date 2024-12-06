@@ -1,3 +1,18 @@
+---
+layout: essay
+type: essay
+title: "Design pattern is our BLURPRINT!"
+# All dates must be YYYY-MM-DD format!
+date: 2024-12-05
+published: true
+labels:
+  - Software engineering
+  - VSCode
+---
+
+
+
+
 <img width="1000px" class="rounded float-start pe-4" src="../img/behavioral-design-patterns-new.png">
 
 Imagine you've been tasked with building a skyscraper in a bustling city. You wouldn't reinvent every structural element from scratch, would you? Instead, you would refer to blueprints that have been validated by decades of engineering experience to ensure that the building is safe, efficient, and capable of meeting the needs of its occupants. Software development is similar in that design patterns are our blueprints-a set of proven solutions to common problems in software design.
