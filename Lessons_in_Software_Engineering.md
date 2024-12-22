@@ -11,7 +11,8 @@ labels:
 
 
 <h1>Beyond Code: Lessons in Software Engineering</h1>
-<img width="600px" class="rounded float-start pe-4" src="../img/Software-Engineering-Hero-1600x900.jpg">
+
+<img width="600px" class="rounded float-start pe-4" src="../img/software.jpg">
 
 As this class draws to a close, I find myself reflecting on the diverse and essential aspects of software engineering that I have learned. While the immediate focus of the course has been web application development, the lessons extend far beyond creating applications. This class has provided me with a deeper understanding of foundational software engineering principles that can be applied to a variety of contexts. Among these, Configuration Management, Agile Project Management, and Design Patterns stand out as transformative topics that have reshaped my approach to both problem-solving and project execution.
 
